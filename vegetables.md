@@ -80,4 +80,10 @@ Chenopodiceae | _Beta vulgaris_ | Beet Root
 Compositae | _Lactuca sativa_ | Lettuce
 _Convulvolaceae_ | _Ipomea batatas_ | Sweet Potato
 _Cruciferae_ | _Brassica oleracea var. capitata_ | Cabbage
-|   | _Brassica oleracea var. botrtis_ | GAuliflower
+|   | _Brassica oleracea var. botrtis_ | Cauliflower
+|   | _Brassica oleracea var. acephala_ | Kale
+|   | _Brassica oleracea var. italica_ | Broccolli
+| _Cucurbitaceae_ | _Cucurbita moschata_ | Pumpkin
+|   | _Citrullus lanatus_ | Watermelon
+|   | _Cucumis sativus_ | Cucumber
+|   | _Cucumis melo_ | CAna
